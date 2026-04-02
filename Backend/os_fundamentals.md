@@ -2,6 +2,8 @@
 
 [<-- back to shell commands](./shell_commands.md)
 
+[file permission -->](./file_permission.md)
+
 ## Multiple process run on single core CPU
 ![contenxt switching image](../images/context_switching.png)
 
@@ -57,6 +59,8 @@ new Worker("./c.js");
 // CPU usage: 24.2%
 // Thread: 15
 ```
+
+[file permission -->](./file_permission.md)
 
 [<-- back to shell commands](./shell_commands.md)
 

@@ -2,6 +2,8 @@
 
 [<-- back to os fundamentals](./os_fundamentals.md)
 
+[modules -->](./modules.md)
+
 
 ## We can see environment variables
 - `process.env` <---- node.js
@@ -69,6 +71,8 @@ chmod 777 src/ # <---- using number
 - `process.platform`
 
 and more
+
+[modules -->](./modules.md)
 
 [<-- back to os fundamentals](./os_fundamentals.md)
 
