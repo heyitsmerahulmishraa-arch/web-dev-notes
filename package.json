@@ -1,0 +1,21 @@
+{
+  "name": "web-dev-notes",
+  "version": "1.0.0",
+  "description": "|Topic|Description|\r |-----|-----------|\r |[Backend](./Backend/README.md)|shell commands, os fundaments, modules, file permission|\r |[DSA](./DSA/README.md)|Flowchart, Pseudo Code|",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyitsmerahulmishraa-arch/web-dev-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/heyitsmerahulmishraa-arch/web-dev-notes/issues"
+  },
+  "homepage": "https://github.com/heyitsmerahulmishraa-arch/web-dev-notes#readme"
+}
