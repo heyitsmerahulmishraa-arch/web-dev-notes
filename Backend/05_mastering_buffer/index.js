@@ -22,18 +22,30 @@
 // We use 2's complement to convert unsigned to signed (positive to negative)
 
 // 8 bytes buffer created in memory
-const data = new ArrayBuffer(8);
+// const data = new ArrayBuffer(8);
 
 // to write or read in ArrayBuffer
-const view = new DataView(data);
+// const view = new DataView(data);
 
-view.setInt8(0,0x8d);
-view.setInt8(1,0x4a);
-view.setInt8(2,0o0101110);
-view.setInt8(3,83);
+// view.setInt8(0,0x8d);
+// view.setInt8(1,0x4a);
+// view.setInt8(2,0o0101110);
+// view.setInt8(3,83);
 
-console.log(view)
-console.log(view.getInt8(3))
+// console.log(view)
+// console.log(view.getInt8(3))
 
 // view.getInt8() <= this read value as a signed value
 // view.getUint8() <= this read value as a unsigned value
+
+// *** TypedArrays ***
+// Int8Array
+// Int16Array
+// Int32Array
+// BigInt64Array
+
+// Uint8Array
+// Uint8ClampedArray
+// Uint16Array
+// Uint32Array
+// BigUint64Array
